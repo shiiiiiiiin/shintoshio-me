@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Emmanuel
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,nuxtjs,html,css,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,nuxtjs,laravel,php,html,css,tailwind)](https://dev.to/shintoshio_me)
 <!--
 **shintoshio-me/shintoshio-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
