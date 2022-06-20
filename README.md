@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Emmanuel
+### 👋 Hi there
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,nuxtjs,laravel,php,html,css,tailwind)](https://dev.to/shintoshio_me)
 <!--
